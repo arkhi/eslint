@@ -81,4 +81,4 @@ while (check(obj)) {
 
 ## When Not To Use It
 
-If you don't want to notified about references inside of loop conditions, then it's safe to disable this rule.
+If you don't want to be notified about references inside of loop conditions, then it's safe to disable this rule.
